@@ -1,0 +1,48 @@
+private void QuickSortObjeto<Tipo>(Tipo[] arreglo, int izquierdo, int derecho) where Tipo : IComparable<Tipo>
+        {
+            int i = izquierdo;
+            int d = derecho;
+            int centro = (izquierdo + derecho) / 2;
+            Tipo pivote = arreglo[centro];
+
+            do
+            {
+                
+                while (arreglo[i].CompareTo(pivote) < 0)
+                {
+                    intTotalComparaciones++;
+                    i++;
+                }
+                while (arreglo[d].CompareTo(pivote) > 0)
+                {
+                    intTotalComparaciones++;
+                    d--;
+                }
+                if (i <= d)
+                {
+                    IntercambiarObjeto<Tipo>(arreglo, i, d);
+                    i++;
+                    d--;
+                }
+            } while (i <= d);
+            if (izquierdo < d)
+            {
+                QuickSortObjeto(arreglo, izquierdo, d);
+            }
+            if (i < derecho)
+            {
+                QuickSortObjeto(arreglo, i, derecho);
+            }
+        }
+
+
+
+//
+void IntercambiarObjeto<Tipo>(Tipo[] arreglo, int i, int d)
+        {
+            intTotalIntercambios++;
+            Tipo temp;
+            temp = arreglo[i];
+            arreglo[i] = arreglo[d];
+            arreglo[d] = temp;
+        }

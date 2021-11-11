@@ -1,0 +1,48 @@
+private void QuickSort(int[] arreglo, int izquierdo, int derecho)
+        {
+            int i = izquierdo;
+            int d = derecho;
+            int pivote = arreglo[(izquierdo + derecho) / 2];
+            do
+            {
+                
+                while (arreglo[i] < pivote)
+                {
+                    intTotalComparaciones++;
+                    i++;
+                } 
+                while (arreglo[d] > pivote)
+                {
+                    intTotalComparaciones++;
+                    d--;
+                }
+                if (i <= d)
+                {
+                    Intercambiar(arreglo, i, d);
+                    i++;
+                    d--;
+                }
+            } while (i <= d);
+
+            if (izquierdo < d)
+            {
+                QuickSort(arreglo, izquierdo, d);
+            }
+            if (i < derecho)
+            {
+                QuickSort(arreglo, i, derecho);
+            }
+        }
+
+
+
+
+//
+void Intercambiar(int[] arreglo ,int i, int d)
+        {
+            intTotalIntercambios++;
+            int temp;
+            temp = arreglo[i];
+            arreglo[i] = arreglo[d];
+            arreglo[d] = temp;
+        }

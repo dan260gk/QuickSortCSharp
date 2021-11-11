@@ -1,0 +1,60 @@
+D:\Escritorio\Quick Sort\bin\Debug\Quick Sort.exe.config
+D:\Escritorio\Quick Sort\bin\Debug\Quick Sort.exe
+D:\Escritorio\Quick Sort\bin\Debug\Quick Sort.pdb
+D:\Escritorio\Quick Sort\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+D:\Escritorio\Quick Sort\obj\Debug\Quick_Sort.Form1.resources
+D:\Escritorio\Quick Sort\obj\Debug\Quick_Sort.Properties.Resources.resources
+D:\Escritorio\Quick Sort\obj\Debug\Quick Sort.csproj.GenerateResource.cache
+D:\Escritorio\Quick Sort\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+D:\Escritorio\Quick Sort\obj\Debug\Quick Sort.exe
+D:\Escritorio\Quick Sort\obj\Debug\Quick Sort.pdb
+D:\Escritorio\Quick Sort Ver. 0.1\bin\Debug\Quick Sort.exe.config
+D:\Escritorio\Quick Sort Ver. 0.1\bin\Debug\Quick Sort.exe
+D:\Escritorio\Quick Sort Ver. 0.1\bin\Debug\Quick Sort.pdb
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick_Sort.Form1.resources
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick_Sort.Properties.Resources.resources
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick Sort.csproj.GenerateResource.cache
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick Sort.exe
+D:\Escritorio\Quick Sort Ver. 0.1\obj\Debug\Quick Sort.pdb
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\bin\Debug\Quick Sort.exe.config
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\bin\Debug\Quick Sort.exe
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\bin\Debug\Quick Sort.pdb
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick_Sort.Form1.resources
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick_Sort.Properties.Resources.resources
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.exe
+C:\Users\USER\source\repos\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.pdb
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\bin\Debug\Quick Sort.exe.config
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\bin\Debug\Quick Sort.exe
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\bin\Debug\Quick Sort.pdb
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick_Sort.Form1.resources
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick_Sort.Properties.Resources.resources
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.csproj.GenerateResource.cache
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.exe
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (numeros) Ver. 1.0\obj\Debug\Quick Sort.pdb
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\bin\Debug\Quick Sort.exe.config
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\bin\Debug\Quick Sort.exe
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\bin\Debug\Quick Sort.pdb
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick_Sort.Form1.resources
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick_Sort.Properties.Resources.resources
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick Sort.csproj.GenerateResource.cache
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick Sort.exe
+D:\Descargas\Quick Sort (numeros) Ver. 1.0\Quick Sort (objeto) Ver. 0.5\obj\Debug\Quick Sort.pdb
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\bin\Debug\Quick Sort.exe.config
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\bin\Debug\Quick Sort.exe
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\bin\Debug\Quick Sort.pdb
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick Sort.csproj.AssemblyReference.cache
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick_Sort.Form1.resources
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick_Sort.Properties.Resources.resources
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick Sort.csproj.GenerateResource.cache
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick Sort.exe
+D:\Escritorio\Quick Sort (numero y objeto) Ver. 1\obj\Debug\Quick Sort.pdb
